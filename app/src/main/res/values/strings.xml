@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Camer_App</string>
+    <string name="todo">TODO</string>
+    <string name="click_here_to_capture_image_using_camera">Click here to capture image using camera</string>
+</resources>
